@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=IceMage
+comment1.params=name\ strength
+comment1.target=IceMage(java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getMagicType()
+comment3.params=hero\ villain
+comment3.target=void\ throwMagic(Hero,\ Villain)
+numComments=4

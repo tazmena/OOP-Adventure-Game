@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Character
+comment1.params=name\ strength
+comment1.target=Character(java.lang.String,\ int)
+comment2.params=newStrength
+comment2.target=void\ setStrength(int)
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=
+comment4.target=int\ getStrength()
+numComments=5

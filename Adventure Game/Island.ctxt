@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Island
+comment1.params=
+comment1.target=Island()
+comment2.params=
+comment2.target=boolean\ getNorthVisited()
+comment3.params=
+comment3.target=boolean\ getEastVisited()
+comment4.params=
+comment4.target=boolean\ getSouthVisited()
+comment5.params=
+comment5.target=boolean\ getWestVisited()
+comment6.params=
+comment6.target=void\ setNorthVisited()
+comment7.params=
+comment7.target=void\ setEastVisited()
+comment8.params=
+comment8.target=void\ setSouthVisited()
+comment9.params=
+comment9.target=void\ setWestVisited()
+numComments=10

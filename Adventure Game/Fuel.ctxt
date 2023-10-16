@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Fuel
+comment1.params=
+comment1.target=Fuel()
+comment2.params=
+comment2.target=boolean\ getCollected()
+comment3.params=
+comment3.target=void\ hasBeenCollected()
+numComments=4
